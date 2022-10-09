@@ -1,0 +1,21 @@
+{
+  "name": "code-mini-dark",
+  "displayName": "Code Mini Dark",
+  "description": "Code Mini Dark",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.72.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Code Mini Dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Code Mini Dark-color-theme.json"
+      }
+    ]
+  }
+}
