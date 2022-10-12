@@ -2,7 +2,12 @@
   "name": "code-mini-dark",
   "displayName": "Code Mini Dark",
   "description": "Code Mini Dark",
+  "publisher": "code-mini-dark",
   "version": "0.0.1",
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
   "engines": {
     "vscode": "^1.72.0"
   },
