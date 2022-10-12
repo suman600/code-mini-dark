@@ -6,7 +6,7 @@
   "version": "0.0.1",
   "repository": {
     "type": "git",
-    "url": ""
+    "url": "https://github.com/suman600/code-mini-dark"
   },
   "engines": {
     "vscode": "^1.72.0"
